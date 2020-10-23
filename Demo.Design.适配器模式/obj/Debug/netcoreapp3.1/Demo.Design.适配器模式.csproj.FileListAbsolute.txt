@@ -1,0 +1,4 @@
+E:\DemoDesign\Demo.Design.适配器模式\bin\Debug\netcoreapp3.1\Demo.Design.适配器模式.exe
+E:\DemoDesign\Demo.Design.适配器模式\obj\Debug\netcoreapp3.1\Demo.Design.适配器模式.csprojAssemblyReference.cache
+E:\DemoDesign\Demo.Design.适配器模式\obj\Debug\netcoreapp3.1\Demo.Design.适配器模式.AssemblyInfoInputs.cache
+E:\DemoDesign\Demo.Design.适配器模式\obj\Debug\netcoreapp3.1\Demo.Design.适配器模式.AssemblyInfo.cs

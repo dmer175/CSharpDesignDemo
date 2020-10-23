@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Jy5H6YLkIU5SRYNYe6oqpH9+PQjq30AaNCysSSnX0Ws+wHgXtDlvbLotMqMBTSatAEIg7hRncHgoJE/cc7JDw==",
+  "success": true,
+  "projectFilePath": "E:\\DemoDesign\\Demo.Design.桥接模式\\Demo.Design.桥接模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

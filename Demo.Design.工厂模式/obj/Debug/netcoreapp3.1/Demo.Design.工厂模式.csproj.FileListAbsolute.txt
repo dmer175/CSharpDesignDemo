@@ -1,0 +1,13 @@
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.exe
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.deps.json
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.runtimeconfig.json
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.runtimeconfig.dev.json
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.dll
+E:\DemoDesign\Demo.Design.工厂模式\bin\Debug\netcoreapp3.1\Demo.Design.工厂模式.pdb
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.csprojAssemblyReference.cache
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.AssemblyInfoInputs.cache
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.AssemblyInfo.cs
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.csproj.CoreCompileInputs.cache
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.dll
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.pdb
+E:\DemoDesign\Demo.Design.工厂模式\obj\Debug\netcoreapp3.1\Demo.Design.工厂模式.genruntimeconfig.cache
